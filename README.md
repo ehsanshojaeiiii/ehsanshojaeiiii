@@ -1,37 +1,62 @@
-### Hi there 👋
+<h1 align="center">Hi  I'm Ehsan Shojaei </h1>
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/ehsanshojaeiiii/ehsanshojaeiiii)]()
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/EhsanShojaeiiii)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ehsan-shojaei-2567bb181/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=Blockchain+Developer)](https://git.io/typing-svg)
+
+<p>
+  <img align="right" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/giphy.gif" alt="Ehsan"/>
+  </p> 
+  
 
 
-### 💼 Skills
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=37367b)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=37367b)
-![](https://img.shields.io/badge/Code-Etheruem-informational?style=flat&logo=Etheruem&logoColor=white&color=37367b)
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=nodedotjs&logoColor=white&color=37367b)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=37367b)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=37367b)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=37367b)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=37367b)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=37367b)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=37367b)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=37367b)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&logoColor=white&color=37367b)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=37367b)
 
-<!--
-**ehsanshojaeiiii/ehsanshojaeiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **ehsan.shojaei78@gmail.com**
 
-Here are some ideas to get you started:
+<!-- - ⚡ Fun fact :- music and code are the reasons to live. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 📠 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ehsan-shojaei-2567bb181/" target="blank">
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+  
+<a href="https://twitter.com/ehsanshojaeiiii" target="blank">
+
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+</a>
+
+
+</p>
+
+<br>
+
+## 🛠 Technologies and Languages
+
+<p align="left">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![NEXT](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+</p>
+
+<br>
+
+## 📊 My Statistics
+
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ehsanshojaeiiii&show_icons=true&theme=ayu-mirage&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanshojaeiiii&theme=ayu-mirage&hide_border=true" />
+  </a>
+</p>
+
+[![Ehsan Shojaei's github activity graph](https://activity-graph.herokuapp.com/graph?username=ehsanshojaeiiii&theme=react-dark	)](https://github.com/ehsanshojaeiiii/github-readme-activity-graph)
